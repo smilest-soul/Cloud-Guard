@@ -23,7 +23,7 @@
 
 | Dashboard | PDF Report |
 |----------|------------|
-| ![dashboard](screenshots/dashboard.png) | ![report](screenshots/pdf_report.png) |
+| ![dashboard]() | ![report]() |
 
 ---
 
